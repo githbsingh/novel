@@ -1,0 +1,22 @@
+{
+  "name": "@manohar/scoped-npm-package",
+  "version": "1.0.0",
+  "description": "This package will take any string and wrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githbsingh/novel.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "npm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githbsingh/novel/issues"
+  },
+  "homepage": "https://github.com/githbsingh/novel#readme"
+}
